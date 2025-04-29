@@ -1,0 +1,29 @@
+li {
+    list-style: none;
+}
+
+.main-div div {
+    width: 250px;
+    height: 250px;
+    position: relative;
+}
+
+.main-li {
+    background-color: #ec8282;
+    position: absolute;
+}
+
+.main-li1 {
+    background-color: #6c94cf;
+    bottom: 125px;
+    left: 125px;
+    position: absolute;
+    z-index: 1;
+}
+
+.main-li2 {
+    background-color: #6ccf7d;
+    bottom: 250px;
+    left: 250px;
+    position: absolute;
+}
